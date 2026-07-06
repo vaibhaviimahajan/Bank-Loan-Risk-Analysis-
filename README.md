@@ -96,23 +96,23 @@ The dashboard provides a detailed Loan Status Table including:
 
 # 📷 Dashboard Preview
 
-## 📌 Executive Summary Dashboard
+## 📷 Dashboard Preview
 
-![Executive Summary](05_Dashboard_Screenshots/dashboard1.png)
+### KPI Summary
 
----
-
-## 📌 Overview Dashboard
-
-![Overview Dashboard](05_Dashboard_Screenshots/dashboard2.png)
+![KPI Summary](05_Dashboard_Screenshots/KPI_Summary.png)
 
 ---
 
-## 📌 Details Dashboard
+### Good vs Bad Loan Analysis
 
-![Details Dashboard](05_Dashboard_Screenshots/dashboard3.png)
+![Good vs Bad Loan Analysis](05_Dashboard_Screenshots/Good_vs_Bad.png)
 
 ---
+
+### Loan Status Table
+
+![Loan Status Table](05_Dashboard_Screenshots/Loan_Status_Table.png)
 
 # 💡 Key Business Insights
 
